@@ -43,11 +43,11 @@
 
     <dependencyManagement>
         <dependencies>
-<!--            <dependency>-->
-<!--                <groupId>com.msr</groupId>-->
-<!--                <artifactId>msr-common</artifactId>-->
-<!--                <version>${msr.version}</version>-->
-<!--            </dependency>-->
+            <dependency>
+                <groupId>com.msr</groupId>
+                <artifactId>msr-common</artifactId>
+                <version>${msr.version}</version>
+            </dependency>
 
             <!--mybatis-plus 持久层-->
             <dependency>
